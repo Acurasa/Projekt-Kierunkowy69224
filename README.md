@@ -23,10 +23,6 @@ Program posiada moduł /interface który odpowiada za input & output z programu.
 
 ![alt text](https://sun9-45.userapi.com/impf/GsOm-kvjNjqR3IXjxcNm9GLkm2y5a8iVdd-EnQ/e3-RxoVhVI4.jpg?size=1430x369&quality=96&sign=0f56de5a326a4b96c93b813f1457e39e&type=album)
 
-## Logging prowadzony za pomocą standartowego modułu python **logging**
-
-![alt text](https://sun9-78.userapi.com/impf/74BMlY5OWGoUqcuNfK8bkT31IkBVJhhUxnv_EQ/Ya5h3iGK7PE.jpg?size=620x346&quality=96&sign=0a5264e15ca9b9aca57db22fcde6c291&type=album)
-
 ## Zimplementowane Strategie :
 
 **Breakout**
